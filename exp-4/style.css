@@ -1,0 +1,16 @@
+header{
+    background-color:cadetblue;
+    padding: 20px;
+}
+
+nav a{
+    text-decoration: none;
+    padding-right: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+h1{
+    font-weight: bold;
+    color: white;
+}

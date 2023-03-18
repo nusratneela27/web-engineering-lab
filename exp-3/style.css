@@ -1,0 +1,45 @@
+header{
+    background-color: sienna;
+    padding: 10px;
+}
+
+nav a{
+    text-decoration: none;
+    padding-right: 10px;
+    font-weight: bold;
+    color: white;    
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+section{
+    padding: 20px;
+    margin: 10px;
+    background-color: cornsilk;
+    border: 1px solid gray;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+thead{
+    background-color: sienna;
+}
+thead tr th{
+    color: white;
+    padding: 10px;
+}
+
+tbody tr th{
+    color: black;
+    padding: 10px;
+}
